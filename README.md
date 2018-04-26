@@ -12,10 +12,13 @@ Passos
 3- O servidor gera uma variável n (randomica) para os clientes conectados
 *para ordenar quem começa
 
-4- O
+4- TCP
+
+5- JSON
 
 Regras
   Casa inicial
   Escolha do máximo de casas
   Caindo na mesma casa, manda adversário para o início
   Passa a vez
+  Um vetro único
