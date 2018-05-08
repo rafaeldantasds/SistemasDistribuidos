@@ -1,3 +1,24 @@
+# Fases e Datas
+Aps 1: 28/05
+- (chat) envio de msg privada
+- (chat) envio de msg broadcast
+- Login e Logout
+- Interface mostrando quem está conectado (Servidor)
+- Interface mostrando as mensagens (Servidor)
+- Interface mostrando as mensagens (Cliente)
+
+Aps 2: 04/06
+-
+-
+
+Aps 3: 11/06
+-
+-
+
+Aps 4: 25/06
+-
+-
+
 # SistemasDistribuidos
 Jogo de Tabuleiro Ludo
 
