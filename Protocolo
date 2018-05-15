@@ -1,0 +1,35 @@
+# Modelo do Protocolo - JSON
+0 :: Logout
+1 :: Login
+2 :: Lista de Clientes
+3 :: Broadcast
+4 :: Mensagem privada
+5 :: Recebimento de mensagem
+
+
+# Protocolo 
+{
+  "protocolo":1,
+  "erro": false.
+  "mensagem":ok
+  
+}
+
+# Modelo de protocolo Lista de Clientes
+{
+  "protocolo": 2,
+  "conteudo":false,
+  "mensagem": "oK"
+  "return":[
+    {"ip":"127.0.0.0",""},
+    {"cliente":}]
+}
+
+# Modelo de protocolo de logout
+{
+  "protocolo": 5,
+  "conteudo":false,
+  "erro":false,
+  "mensagem": "oK"
+}
+# Modelo de protocolo de mensagem
