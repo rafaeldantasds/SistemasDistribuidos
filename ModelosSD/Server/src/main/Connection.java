@@ -27,7 +27,7 @@ public class Connection extends Thread {
         try {
             
             this.socket = socket;
-            this.out = new PrintWriter(socket.getOutputStream(), true);
+            this.out = new PrintWriter(socket.getOutputStream(), true);//true por causa do flush
             this.in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
             
         }catch(IOException e){

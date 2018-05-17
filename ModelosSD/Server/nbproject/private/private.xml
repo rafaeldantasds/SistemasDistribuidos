@@ -2,6 +2,10 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/SistemasD/SistemasDistribuidos/ModelosSD/Server/src/main/Server.java</file>
+            <file>file:/C:/SistemasD/SistemasDistribuidos/ModelosSD/Server/src/main/Connection.java</file>
+            <file>file:/C:/SistemasD/SistemasDistribuidos/ModelosSD/Server/src/main/IServer.java</file>
+        </group>
     </open-files>
 </project-private>
